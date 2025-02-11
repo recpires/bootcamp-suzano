@@ -4,6 +4,10 @@
 
 Este projeto contém arquivos relacionados ao sistema bancário desenvolvido durante o Bootcamp Suzano. Abaixo está uma breve descrição de cada arquivo presente no diretório.
 
+## Mídia
+
+https://github.com/user-attachments/assets/e1478d5a-d9e2-4621-9ebc-eefc9b9a557b
+
 ## Arquivos
 
 ### sys_bank_1.py
