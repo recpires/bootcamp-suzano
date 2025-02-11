@@ -20,6 +20,11 @@ Este é o arquivo de banco de dados SQLite onde os registros são armazenados. E
 - **SQLite**: Banco de dados relacional utilizado para armazenar os dados.
 - **SQLAlchemy**: Biblioteca ORM (Object-Relational Mapping) utilizada para interagir com o banco de dados de forma mais intuitiva.
 
+## Mídia
+
+https://github.com/user-attachments/assets/49fb0bb5-5dc0-4db7-bc56-d2e673e03a31
+
+
 ## Como Executar
 
 1. Certifique-se de ter o Python instalado em sua máquina.
